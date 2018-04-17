@@ -1,0 +1,13 @@
+.poke-item{
+	background-color: #d8d8d8;
+	cursor: pointer;
+	display: inline-block;
+	height: 150px;
+	line-height: 150px;
+	margin: 0.2em;
+	vertical-align: top;
+	vertical-align: middle;
+	text-align: center;
+	text-transform: uppercase;
+	width: 150px;
+}
